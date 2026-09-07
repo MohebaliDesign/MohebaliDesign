@@ -15,3 +15,5 @@ Feel free to explore my work and let's connect if you're interested in product d
 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mohamad-mhb/)
 
 📩 **Email:** [mohebali.uiux@gmail.com](mailto:mohebali.uiux@gmail.com)
+
+✍️ **Telegram Channel:** [Channel Link](https://t.me/mohebalidesign)
