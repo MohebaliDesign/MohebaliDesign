@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mohammad 
 
-I'm a Product Designer with 3+ years of experience turning complex ideas into simple, thoughtful digital experiences.
+I'm a **Product Designer** with **3+ years of experience** turning complex ideas into simple, thoughtful digital experiences.
 
 I work at the intersection of product thinking, UX design and technology. designing SaaS platforms, enterprise products and scalable experiences while exploring new ways to build with AI.
 
