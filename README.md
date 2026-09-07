@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Mohammad 👋
 
-<!--
-**MohebaliDesign/MohebaliDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product Designer with 4+ years of experience turning complex ideas into simple, thoughtful digital experiences.
 
-Here are some ideas to get you started:
+I work at the intersection of product thinking, UX design, and technology — designing SaaS platforms, enterprise products, and scalable experiences while exploring new ways to build with AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is my space for experiments, prototypes, and AI-assisted creations. Here, I share explorations, vibe coding projects, and ideas where design meets development — a place to learn, test, and bring concepts closer to real products.
+
+Feel free to explore my work, and let's connect if you're interested in product design, AI, or building better digital experiences together. 🤝
+
+## Let's connect
+
+🌐 **Portfolio:** [mohebali.framer.website](https://mohebali.framer.website/)
+
+💼 **LinkedIn:** [Add your LinkedIn profile](#)
+
+📩 **Email:** [mohebali.uiux@gmail.com](mailto:mohebali.uiux@gmail.com)
