@@ -6,7 +6,7 @@ I work at the intersection of product thinking, UX design and technology. design
 
 This GitHub is my space for experiments, prototypes and AI-assisted creations. Here, I share explorations, vibe coding projects and ideas where design meets development. a place to learn, test and bring concepts closer to real products.
 
-Feel free to explore my work and let's connect if you're interested in product design, AI, or building better digital experiences together :)))
+Feel free to explore my work and let's connect if you're interested in product design, AI or building better digital experiences, let's do it together :)))
 
 ## 🤝 Let's connect!
 
