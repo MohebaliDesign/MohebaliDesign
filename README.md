@@ -8,6 +8,9 @@ This GitHub is my space for experiments, prototypes and AI-assisted creations. H
 
 Feel free to explore my work and let's connect if you're interested in product design, AI or building better digital experiences, let's do it together :)))
 
+
+[![XERJ Corpus Hub Contributor](https://hub.xerj.org/contributors/MohebaliDesign/badge.svg)](https://hub.xerj.org/contributors/MohebaliDesign)
+
 ## 🤝 Let's connect!
 
 🌐 **Portfolio:** [mohebali.framer.website](https://mohebali.framer.website/)
